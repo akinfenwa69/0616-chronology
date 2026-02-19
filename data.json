@@ -1,0 +1,161 @@
+[
+    {
+        "icon": "file-text",
+        "date": "17/09/2025",
+        "title": "Crear document",
+        "description": "En aquest document inicial s'afegeix el la pluja d'idees, benchmarking, selecció de projecte final i esquema de pantalles.",
+        "list": [
+            "Pluja d'idees",
+            "Benchmarking",
+            "Selecció projecte final"
+        ]
+    },
+    {
+        "icon": "square-kanban",
+        "date": "18/09/2025",
+        "title": "Crear tauler d'organització",
+        "description": "S'han afegit les tasques a realitzar en un Trello i al GitLab.",
+        "list": [
+            "aaa",
+            "bbb",
+            "ccc"
+        ]
+    },
+    {
+        "icon": "upload",
+        "date": "26/09/2025",
+        "title": "Entrega Tasca 1"
+    },
+    {
+        "icon": "cog",
+        "date": "01/10/2025",
+        "title": "Definir RFs i RNFs",
+        "description": "A partir del projecte escollit, hem de definir els requeriments funcionals (què fa el sistema) i els no funcionals (com ha de ser el sistema)."
+    },
+    {
+        "icon": "upload",
+        "date": "10/10/2025",
+        "title": "Entrega Tasca 2"
+    },
+    {
+        "icon": "wrench",
+        "date": "16/10/2025",
+        "title": "Dissenyar funcionalitat i estructura",
+        "description": "Hem creat casos d'ús, els wireframes del projecte i l'arquitectura MVC a mà, juntament amb el model de dades, les relacions i el flux bàsic."
+    },
+    {
+        "icon": "upload",
+        "date": "24/10/2025",
+        "title": "Entrega Tasca 3"
+    },
+    {
+        "icon": "scroll-text",
+        "date": "30/10/2025",
+        "title": "Planificació del projecte",
+        "description": "S'han creat diferentes taules amb les tasques, el responsable/s d'aquella tasca i el rol que complirà cada membre. També s'ha afegit la integració amb la refactorització MVC, le control de qualitat del desenvolupament i la creació del document de seguiment."
+    },
+    {
+        "icon": "upload",
+        "date": "16/11/2025",
+        "title": "Entrega Tasca 4"
+    },
+    {
+        "icon": "file-plus-corner",
+        "date": "19/11/2025",
+        "title": "Nova documentació",
+        "description": "Hem creat un nou document per aplicar la plantilla de documentació proporcinada pel professorat."
+    },
+    {
+        "icon": "file-check",
+        "date": "26/11/2025",
+        "title": "Resultats obtinguts i conclusions"
+    },
+    {
+        "icon": "route",
+        "date": "27/11/2025",
+        "title": "Crear roadmap",
+        "description": "Fins Validació II"
+    },
+    {
+        "icon": "users",
+        "date": "11/12/2025",
+        "title": "Acta de reunió"
+    },
+    {
+        "icon": "route",
+        "date": "11/12/2025",
+        "title": "Modificar roadmap",
+        "description": "Fins Validació II"
+    },
+    {
+        "icon": "send-to-back",
+        "date": "11/12/2025",
+        "title": "Planificació migració Laravel",
+        "description": "Es crea un nou arxiu que inclou les tasques que s'han de realitzar per incloure el CRUD anterior a Laravel."
+    },
+    {
+        "icon": "upload",
+        "date": "15/12/2025",
+        "title": "Entrega Documentació I",
+        "description": "+ Validació I"
+    },
+    {
+        "icon": "map-pinned",
+        "date": "18/12/2025",
+        "title": "Document de traçabilitat funcional"
+    },
+    {
+        "icon": "waypoints",
+        "date": "18/12/2025",
+        "title": "Informe de seguiment I"
+    },
+    {
+        "icon": "upload",
+        "date": "11/01/2026",
+        "title": "Entrega Tasca 5"
+    },
+    {
+        "icon": "waypoints",
+        "date": "14/01/2026",
+        "title": "Informe de seguiment II"
+    },
+    {
+        "icon": "upload",
+        "date": "08/02/2026",
+        "title": "Entrega Tasca 6"
+    },
+    {
+        "icon": "link",
+        "date": "22/01/2026",
+        "title": "Planificació relacions",
+        "description": "Es modifica l'arxiu anterior i s'afegeixen les relacions necessaries de cada entitat."
+    },
+    {
+        "icon": "file-braces",
+        "date": "05/02/2026",
+        "title": "Identificar API gratuïta"
+    },
+    {
+        "icon": "file-pen",
+        "date": "08/02/2026",
+        "title": "Actualitzar documentació",
+        "description": "Modificar '2. Desenvolupament tècnic' i afegir model relacional actualitzat. També s'ha afegit un apartat per les reunions setmanals i actes formals, i tres apartats més a '4. Resultats obtinguts'."
+    },
+    {
+        "icon": "upload",
+        "date": "15/02/2026",
+        "title": "Entrega Documentació II",
+        "description": "+ Validació II"
+    },
+    {
+        "icon": "file-pen",
+        "date": "18/02/2026",
+        "title": "Actualitzar documentació",
+        "description": "Adaptar documentació al progrés real de Laravel"
+    },
+    {
+        "icon": "upload",
+        "date": "22/02/2026",
+        "title": "Entrega Revisió i Tutoria"
+    }
+]
