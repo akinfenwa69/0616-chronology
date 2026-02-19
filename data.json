@@ -1,6 +1,6 @@
 [
     {
-        "icon": "file-text",
+        "icon": "file-plus-corner",
         "date": "17/09/2025",
         "title": "Crear document",
         "description": "En aquest document inicial es documenten els primers passos del projecte.",
@@ -77,7 +77,8 @@
     {
         "icon": "file-check",
         "date": "26/11/2025",
-        "title": "Resultats obtinguts i conclusions"
+        "title": "Resultats obtinguts i conclusions",
+        "description": "Indicar els aspectes ben resolts, les millores, inconvenients i solucions de la fase actual."
     },
     {
         "icon": "route",
