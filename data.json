@@ -3,23 +3,19 @@
         "icon": "file-text",
         "date": "17/09/2025",
         "title": "Crear document",
-        "description": "En aquest document inicial s'afegeix el la pluja d'idees, benchmarking, selecció de projecte final i esquema de pantalles.",
+        "description": "En aquest document inicial es documenten els primers passos del projecte.",
         "list": [
             "Pluja d'idees",
             "Benchmarking",
-            "Selecció projecte final"
+            "Selecció projecte final",
+            "Esquema de pantalles"
         ]
     },
     {
         "icon": "square-kanban",
         "date": "18/09/2025",
         "title": "Crear tauler d'organització",
-        "description": "S'han afegit les tasques a realitzar en un Trello i al GitLab.",
-        "list": [
-            "aaa",
-            "bbb",
-            "ccc"
-        ]
+        "description": "S'han afegit les tasques a realitzar en un Trello i al GitLab."
     },
     {
         "icon": "upload",
@@ -41,7 +37,15 @@
         "icon": "wrench",
         "date": "16/10/2025",
         "title": "Dissenyar funcionalitat i estructura",
-        "description": "Hem creat casos d'ús, els wireframes del projecte i l'arquitectura MVC a mà, juntament amb el model de dades, les relacions i el flux bàsic."
+        "description": "Inclou el disseny visual i tècnic.",
+        "list": [
+            "Casos d'us",
+            "Wireframes",
+            "Arquitectura MVC",
+            "Model de dades",
+            "Relacions",
+            "Flux bàsic"
+        ]
     },
     {
         "icon": "upload",
@@ -52,7 +56,12 @@
         "icon": "scroll-text",
         "date": "30/10/2025",
         "title": "Planificació del projecte",
-        "description": "S'han creat diferentes taules amb les tasques, el responsable/s d'aquella tasca i el rol que complirà cada membre. També s'ha afegit la integració amb la refactorització MVC, le control de qualitat del desenvolupament i la creació del document de seguiment."
+        "description": "S'han creat diferentes taules amb les tasques, el responsable/s d'aquella tasca i el rol que complirà cada membre. També s'han afegit altres apartats a la documentació.",
+        "list": [
+            "Integració amb la refactorització MVC",
+            "Control de qualitat del desenvolupament",
+            "Document de seguiment I"
+        ]
     },
     {
         "icon": "upload",
@@ -97,7 +106,9 @@
         "icon": "upload",
         "date": "15/12/2025",
         "title": "Entrega Documentació I",
-        "description": "+ Validació I"
+        "list": [
+            "Validació I"
+        ]
     },
     {
         "icon": "map-pinned",
@@ -145,13 +156,21 @@
         "icon": "upload",
         "date": "15/02/2026",
         "title": "Entrega Documentació II",
-        "description": "+ Validació II"
+        "list": [
+            "Validació II"
+        ]
     },
     {
         "icon": "file-pen",
         "date": "18/02/2026",
         "title": "Actualitzar documentació",
         "description": "Adaptar documentació al progrés real de Laravel"
+    },
+    {
+        "icon": "file-pen",
+        "date": "19/02/2026",
+        "title": "Actualitzar documentació",
+        "description": "Canvis i correccions després de feedback en la Tutoria"
     },
     {
         "icon": "upload",
